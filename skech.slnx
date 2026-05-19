@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="skech.vcxproj" Id="d6f6215e-dbcb-41c4-9389-a509deab3c4d" />
+</Solution>
